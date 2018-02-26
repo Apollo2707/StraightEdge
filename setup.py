@@ -16,7 +16,7 @@ setup(name='StraightEdge',
       author='Andrew Neumann',
       author_email='neumann6994@gmail.com',
       license='MIT',
-      packages=['text'],
+      packages=['StraightEdge'],
       install_requires=[
           'markdown',
       ],
