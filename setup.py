@@ -18,7 +18,7 @@ setup(name='StraightEdge',
       license='MIT',
       packages=['StraightEdge'],
       install_requires=[
-          'markdown',
+         
       ],
       include_package_data=True,
       zip_safe=False)
